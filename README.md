@@ -5,7 +5,7 @@ Simple N-body simulator game written with Python 2.7 and pygame
 
 Author: Louis Brown, KD4HSO
 
-Directions:
+Directions of use:
 - Rouge earth is at center of system
 - LMB hold, drag, and release to launch new body into orbit
 - MMB hold for orbit persistance
